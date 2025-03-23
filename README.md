@@ -31,4 +31,4 @@ The system consists of three main components:
 1. **Clone the Repository**:
    bash
    git clone <repository-url>
-   cd pod-failure-prediction```
+   cd Pod_Failure_Prediction_System```
